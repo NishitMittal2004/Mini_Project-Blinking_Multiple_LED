@@ -1,1 +1,1 @@
-# Mini_Project-Blinking_Multiple_LED
+# Mini Project - Blinking Multiple LED
